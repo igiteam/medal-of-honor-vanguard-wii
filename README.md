@@ -1,6 +1,6 @@
 # medal-of-honor-vanguard-wii
 ## Medal Of Honor Vanguard Wii
-A remake of *SWAT3* rebuilt in the **Marines Modern Urban Combat Wii** engine/project.
+Medal of Honor: Vanguard, the tenth entry, was released for the PlayStation 2 and Wii in 2007. It was the first Medal of Honor game to be released on the Wii console.
 
 ## Github Treeview
 [https://treegit.macosxjs.com/?url=igiteam/medal-of-honor-vanguard-wii](https://treegit.macosxjs.com/?url=igiteam/medal-of-honor-vanguard-wii)
