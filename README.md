@@ -30,7 +30,7 @@ A remake of *WW2 Combat: Road to Berlin* — the 2006 budget first-person shoote
 
 [https://archive.org/details/ww2-combat-road-to-berlin](https://archive.org/details/ww2-combat-road-to-berlin)
 
-[![WW2 Combat Road To Berlin](https://raw.githubusercontent.com/igiteam/ww2-combat-road-to-berlin/refs/heads/main/world-war-ii-combat-road-to-berlin.png)](https://archive.org/details/ww2-combat-road-to-berlin)
+[![WW2 Combat Road To Berlin](https://raw.githubusercontent.com/igiteam/medal-of-honor-vanguard-wii-ww2-combat-road-to-berlin/refs/heads/main/world-war-ii-combat-road-to-berlin.png)](https://archive.org/details/ww2-combat-road-to-berlin)
 
 [![Medal Of Honor Vanguard Wii](https://raw.githubusercontent.com/igiteam/medal-of-honor-vanguard-wii-ww2-combat-road-to-berlin/refs/heads/main/medal_of_honor_vanguard_wii.png)](https://vimm.net/vault/64148)
 
