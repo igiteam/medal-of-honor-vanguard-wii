@@ -1,5 +1,5 @@
 # medal-of-honor-vanguard-wii-ww2-combat-road-to-berlin
-## Medal Of Honor Vanguard Wii
+## Medal Of Honor Vanguard Wii - WW2 Combat Road To Berlin Remake
 A remake of *WW2 Combat: Road to Berlin* — the 2006 budget first-person shooter developed by Direct Action Games — rebuilt in the **Medal of Honor: Vanguard (Wii)** engine, using Vanguard's pointer aiming, gesture controls, and Wii FPS feel as the technical base.
 
 ## Github Treeview
