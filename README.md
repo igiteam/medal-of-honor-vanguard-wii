@@ -1,14 +1,16 @@
-# medal-of-honor-vanguard-wii
+# medal-of-honor-vanguard-wii-ww2-combat-road-to-berlin
 ## Medal Of Honor Vanguard Wii
-Medal of Honor: Vanguard, the tenth entry, was released for the PlayStation 2 and Wii in 2007. It was the first Medal of Honor game to be released on the Wii console.
+A remake of *WW2 Combat: Road to Berlin* — the 2006 budget first-person shooter developed by Direct Action Games — rebuilt in the **Medal of Honor: Vanguard (Wii)** engine, using Vanguard's pointer aiming, gesture controls, and Wii FPS feel as the technical base.
 
 ## Github Treeview
-[https://treegit.macosxjs.com/?url=igiteam/medal-of-honor-vanguard-wii](https://treegit.macosxjs.com/?url=igiteam/medal-of-honor-vanguard-wii)
+[https://treegit.macosxjs.com/?url=igiteam/medal-of-honor-vanguard-wii-ww2-combat-road-to-berlin](https://treegit.macosxjs.com/?url=igiteam/medal-of-honor-vanguard-wii-ww2-combat-road-to-berlin)
 
 ## Github Tree Api Direct JSON
-[https://api.github.com/repos/igiteam/medal-of-honor-vanguard-wii/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/medal-of-honor-vanguard-wii/git/trees/main?recursive=1)
+[https://api.github.com/repos/igiteam/medal-of-honor-vanguard-wii-ww2-combat-road-to-berlin/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/medal-of-honor-vanguard-wii-ww2-combat-road-to-berlin/git/trees/main?recursive=1)
 
 ## Base Gameplay
+[![World War II Combat: ROAD TO Berlin](https://i.ytimg.com/vi/DXMHBVa6D0s/maxresdefault.jpg)](https://ytembed.macosxjs.com/?ZHNQdzRmVGpDeE0)
+
 [![Medal of Honor: Vanguard Wii Gameplay HD](https://img.youtube.com/vi/Bd0S57HXrWc/hqdefault.jpg)](https://ytembed.macosxjs.com/?QmQwUzU3SFhyV2M)
 
 [![Medal of Honor Vanguard Nintendo Wii Trailer - How](https://img.youtube.com/vi/OXhHlQrKIec/hqdefault.jpg)](https://ytembed.macosxjs.com/?T1hoSGxRcktJZWM)
@@ -26,7 +28,11 @@ Medal of Honor: Vanguard, the tenth entry, was released for the PlayStation 2 an
 
 [https://vimm.net/vault/64148](https://vimm.net/vault/64148)
 
-[![Medal Of Honor Vanguard Wii](https://raw.githubusercontent.com/igiteam/medal-of-honor-vanguard-wii/refs/heads/main/medal_of_honor_vanguard_wii.png)](https://vimm.net/vault/64148)
+[https://archive.org/details/ww2-combat-road-to-berlin](https://archive.org/details/ww2-combat-road-to-berlin)
+
+[![WW2 Combat Road To Berlin](https://raw.githubusercontent.com/igiteam/ww2-combat-road-to-berlin/refs/heads/main/world-war-ii-combat-road-to-berlin.png)](https://archive.org/details/ww2-combat-road-to-berlin)
+
+[![Medal Of Honor Vanguard Wii](https://raw.githubusercontent.com/igiteam/medal-of-honor-vanguard-wii-ww2-combat-road-to-berlin/refs/heads/main/medal_of_honor_vanguard_wii.png)](https://vimm.net/vault/64148)
 
 [https://github.com/dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin)
 
